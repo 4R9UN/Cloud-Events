@@ -1,0 +1,52 @@
+﻿EventSource,EventName,Description
+appstream.amazonaws.com,CreateFleet,This event occurs when a new fleet is created in Amazon AppStream.
+appstream.amazonaws.com,DeleteFleet,This event occurs when a fleet is deleted in Amazon AppStream.
+autoscaling.amazonaws.com,CreateAutoScalingGroup,This event occurs when a new auto-scaling group is created.
+autoscaling.amazonaws.com,DeleteAutoScalingGroup,This event occurs when an auto-scaling group is deleted.
+autoscaling.amazonaws.com,UpdateAutoScalingGroup,This event occurs when an auto-scaling group is updated.
+cloudtrail.amazonaws.com,AcceptInvitation,This event occurs when a member account accepts an invitation to join an organization.
+cloudtrail.amazonaws.com,AddTags,This event occurs when tags are added to a CloudTrail resource.
+cloudtrail.amazonaws.com,CreateTrail,This event occurs when a new trail is created.
+cloudtrail.amazonaws.com,DeleteTrail,This event occurs when an existing trail is deleted.
+cloudtrail.amazonaws.com,DescribeTrails,This event occurs when details about trails are retrieved.
+cloudtrail.amazonaws.com,StartLogging,This event occurs when logging is started for a trail.
+cloudtrail.amazonaws.com,StopLogging,This event occurs when logging is stopped for a trail.
+cloudtrail.amazonaws.com,UpdateTrail,This event occurs when a trail is updated.
+config.amazonaws.com,DeleteConfigurationRecorder,This event occurs when a configuration recorder is deleted in AWS Config.
+config.amazonaws.com,PutConfigurationRecorder,This event occurs when a configuration recorder is created or updated in AWS Config.
+ec2.amazonaws.com,RunInstances,This event occurs when one or more instances are launched.
+ec2.amazonaws.com,StartInstances,This event occurs when one or more instances are started.
+ec2.amazonaws.com,StopInstances,This event occurs when one or more instances are stopped.
+ec2.amazonaws.com,TerminateInstances,This event occurs when one or more instances are terminated.
+elasticmapreduce.amazonaws.com,RunJobFlow,This event occurs when a job flow is run in Amazon EMR.
+elasticmapreduce.amazonaws.com,TerminateJobFlows,This event occurs when job flows are terminated in Amazon EMR.
+iam.amazonaws.com,CreateUser,This event occurs when a new IAM user is created.
+iam.amazonaws.com,DeleteUser,This event occurs when an IAM user is deleted.
+iam.amazonaws.com,UpdateUser,This event occurs when an IAM user is updated.
+kms.amazonaws.com,CreateKey,This event occurs when a new KMS key is created.
+kms.amazonaws.com,DisableKey,This event occurs when a KMS key is disabled.
+kms.amazonaws.com,EnableKey,This event occurs when a KMS key is enabled.
+kms.amazonaws.com,ScheduleKeyDeletion,This event occurs when a KMS key is scheduled for deletion.
+lambda.amazonaws.com,CreateFunction,This event occurs when a new AWS Lambda function is created.
+lambda.amazonaws.com,DeleteFunction,This event occurs when an AWS Lambda function is deleted.
+lambda.amazonaws.com,UpdateFunctionCode,This event occurs when the code of an AWS Lambda function is updated.
+logs.amazonaws.com,CreateLogGroup,This event occurs when a new log group is created in Amazon CloudWatch Logs.
+logs.amazonaws.com,DeleteLogGroup,This event occurs when a log group is deleted in Amazon CloudWatch Logs.
+logs.amazonaws.com,PutLogEvents,This event occurs when log events are ingested in Amazon CloudWatch Logs.
+rds.amazonaws.com,CreateDBInstance,This event occurs when a new RDS database instance is created.
+rds.amazonaws.com,DeleteDBInstance,This event occurs when an RDS database instance is deleted.
+rds.amazonaws.com,ModifyDBInstance,This event occurs when an RDS database instance is modified.
+resource-groups.amazonaws.com,CreateGroup,This event occurs when a new resource group is created.
+resource-groups.amazonaws.com,DeleteGroup,This event occurs when a resource group is deleted.
+s3.amazonaws.com,CreateBucket,This event occurs when a new S3 bucket is created.
+s3.amazonaws.com,DeleteBucket,This event occurs when an S3 bucket is deleted.
+s3.amazonaws.com,DeleteObject,This event occurs when an object is deleted from an S3 bucket.
+s3.amazonaws.com,GetObject,This event occurs when an object is retrieved from an S3 bucket.
+s3.amazonaws.com,PutObject,This event occurs when an object is added to an S3 bucket.
+securityhub.amazonaws.com,DisableSecurityHub,This event occurs when AWS Security Hub is disabled.
+securityhub.amazonaws.com,EnableSecurityHub,This event occurs when AWS Security Hub is enabled.
+securityhub.amazonaws.com,UpdateSecurityHubConfiguration,This event occurs when the configuration of AWS Security Hub is updated.
+ssm.amazonaws.com,SendCommand,This event occurs when a command is sent using AWS Systems Manager.
+sts.amazonaws.com,AssumeRole,This event occurs when an AWS STS AssumeRole call is made.
+tagging.amazonaws.com,TagResources,This event occurs when tags are added to resources.
+tagging.amazonaws.com,UntagResources,This event occurs when tags are removed from resources.

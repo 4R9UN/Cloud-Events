@@ -1,4 +1,4 @@
-```markdown
+
 # Cloud Events Explorer
 
 Developed a new Power BI-based tool for exploring Azure and AWS cloud resources. This tool is designed to enhance your understanding of cloud operations, events, and their meanings. 🌩️💡
@@ -29,4 +29,3 @@ I hope this tool proves valuable for your cloud exploration and security analysi
 Check it out on GitHub and feel free to contribute! 🌐🔧
 
 #CloudComputing #Azure #AWS #GCP #PowerBI #CloudSecurity #GitHub #TechInnovation
-```

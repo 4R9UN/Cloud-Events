@@ -9,7 +9,7 @@ A powerful exploration tool for Azure and AWS cloud resources, with future plans
 - Comprehensive Azure cloud resources
 - Partial AWS cloud resources
 
-## 🔎 Why use it?
+## 🔎 Why ?
 
 Understanding cloud events and operations is crucial for cloud security analysts and researchers. This tool simplifies the learning process, providing fundamental insights into cloud resources across multiple platforms. 📊🔐
 
